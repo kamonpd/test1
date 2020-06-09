@@ -1,8 +1,5 @@
 first lean git 
 
 v2
-<<<<<<< HEAD
-=======
 
 from dev branch
->>>>>>> dev
